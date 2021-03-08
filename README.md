@@ -1,5 +1,7 @@
 # BDA Project
 This is my BDA project. The purpose of this project is to analyze the dataset provided by Consumer Financial Protection Bureau (CFPB) by applying big data related techniques.
+## Author
+Danfeng Wang
 ## Code files
 The analysis is implemented by Jupyter Notebook, see file **CustomerComplaint.ipynb**.
 
